@@ -60,7 +60,7 @@ function mostrarSecciones() {
 }
 
 function obtenerPlatillos() {
-  const url = "http://localhost:4000/platillos";
+  const url = "https://rodrigomp88.github.io/Calculadora-propinas-javascript/db.json";
 
   fetch(url)
     .then((respuesta) => respuesta.json())
