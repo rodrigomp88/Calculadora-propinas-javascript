@@ -1,5 +1,7 @@
 # Calculadora de propinas
 
+![](screen-capture.gif)
+
 ## Description
 
 Para verlo en funcionamiento:
