@@ -14,5 +14,5 @@ npm install -g json-server
 Luego correr en la carpeta del proyecto el siguiente comando.
 
 ```bash
-json-server --watch db.json 4000
+json-server --watch db.json --port 4000
 ```
