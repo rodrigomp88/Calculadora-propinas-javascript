@@ -4,7 +4,10 @@
 
 ## Description
 
-Para verlo en funcionamiento:
+Una app con json server creando nuestra propia api, selecione una mesa y la hora, agregue platillos a la mesa selecionada, lista el total de los platillos 
+y administre que tipo de propina entrega, 10%, 25%, 50%.
+
+## Uso
 1 - instalar de manera global, json-server con el siguiente comando.
 
 ```
